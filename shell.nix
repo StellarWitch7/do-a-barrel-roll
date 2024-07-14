@@ -9,7 +9,7 @@ let
     stdenv.cc.cc.lib
   ];
 in pkgs.mkShell {
-  name = "trickster";
+  name = "do-a-barrel-roll";
 
   buildInputs = with pkgs; [
     jdk21
