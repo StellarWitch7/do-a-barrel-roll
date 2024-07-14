@@ -32,3 +32,8 @@ bin/
 
 run/
 .fabric
+
+# direnv
+
+.envrc
+.direnv/
